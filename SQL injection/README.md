@@ -1,4 +1,5 @@
-![sql-injection](https://github.com/user-attachments/assets/b48b7e25-e618-4169-bc2e-a131362c5cb1)# SQL injection
+![sql-injection](https://github.com/user-attachments/assets/b48b7e25-e618-4169-bc2e-a131362c5cb1)
+# SQL injection
 In this section, we explain:
 
   - What SQL injection (SQLi) is.
