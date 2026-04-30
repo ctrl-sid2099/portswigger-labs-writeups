@@ -1,2 +1,59 @@
-# portswigger-labs-writeups
-Writeups and notes from PortSwigger Web Security Academy labs
+# 🛡️ Web Security Labs Writeups
+
+This repository contains my hands-on writeups and notes from solving labs on PortSwigger Web Security Academy.
+
+The goal of this repo is not just to document solutions, but to clearly explain the **thought process, vulnerabilities, and exploitation techniques** behind each lab.
+
+---
+
+## 📌 What You'll Find Here
+
+* Step-by-step lab solutions
+* Clear explanations of vulnerabilities
+* Payloads and attack techniques
+* Notes on failed attempts & learning points (for advanced labs)
+
+---
+
+## 🧠 Topics Covered
+
+* Access Control Vulnerabilities
+* Authentication & Session Management
+* SQL Injection (SQLi)
+* Cross-Site Scripting (XSS)
+* Command Injection
+* Path Traversal
+* File Upload Vulnerabilities
+* (More coming as I progress)
+
+---
+
+Each folder contains individual lab writeups with:
+
+* 📝 Explanation
+* ⚙️ Exploitation steps
+* 💡 Key takeaway
+* 
+---
+
+## 🚀 My Learning Approach
+
+* Start with fundamentals and build strong basics
+* Focus on understanding *why* an attack works
+* Gradually move from simple to advanced labs
+* Document both successful and failed approaches
+
+---
+
+## ⚠️ Disclaimer
+
+These writeups are for **educational purposes only**.
+All labs are performed in a legal environment provided by PortSwigger Web Security Academy.
+
+---
+
+## 👤 Author
+ctrl-sid2099
+
+---
+
