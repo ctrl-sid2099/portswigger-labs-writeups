@@ -5,6 +5,8 @@ In this section, we describe:
   - The types of vulnerabilities that can arise with access control.
   - How to prevent access control vulnerabilities.
 
+---
+
 ## ❓ What is access control?
 Access control is the application of constraints on who or what is authorized to perform actions or access resources.
 In the context of web applications, access control is dependent on authentication and session management:
@@ -19,6 +21,8 @@ organizational, and legal constraints to a technical implementation.
 Access control design decisions have to be made by humans so the potential for errors is high.
 
 <img width="781" height="461" alt="sql-injection" src="https://github.com/user-attachments/assets/5667841b-b69d-465e-a191-d4c0693a44a1" />
+
+---
 
 ## 1️⃣ Vertical access controls
 Vertical access controls are mechanisms that restrict access to sensitive functionality to specific types of users.
@@ -35,6 +39,9 @@ Context-dependent access controls restrict access to functionality and resources
 
 Context-dependent access controls prevent a user performing actions in the wrong order. For example, a retail website might prevent users from modifying the contents of their shopping cart after they have made payment.
 
+---
+
 ## 🧩 Broken access controls
 Broken access control vulnerabilities exist when a user can access resources or perform actions that they are not supposed to be able to.
 
+---
