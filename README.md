@@ -19,21 +19,13 @@ The goal of this repo is not just to document solutions, but to clearly explain 
 
 * Access Control Vulnerabilities
 * Authentication & Session Management
-* SQL Injection (SQLi)
+* SQL Injection (SQLi) [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/SQL%20injection)
 * Cross-Site Scripting (XSS)
 * Command Injection
 * Path Traversal
 * File Upload Vulnerabilities
 * (More coming as I progress)
 
----
-
-Each folder contains individual lab writeups with:
-
-* 📝 Explanation
-* ⚙️ Exploitation steps
-* 💡 Key takeaway
-* 
 ---
 
 ## 🚀 My Learning Approach
