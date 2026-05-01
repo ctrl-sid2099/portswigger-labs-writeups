@@ -4,6 +4,8 @@ This repository contains my hands-on writeups and notes from solving labs on Por
 
 The goal of this repo is not just to document solutions, but to clearly explain the **thought process, vulnerabilities, and exploitation techniques** behind each lab.
 
+<img width="807" height="404" alt="image" src="https://github.com/user-attachments/assets/acb8e997-3551-4cb1-a4f6-73e7bac1e6df" />
+
 ---
 
 ## 📌 What You'll Find Here
