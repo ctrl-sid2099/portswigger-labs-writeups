@@ -25,7 +25,11 @@ Unlike visible command injection, the output of executed commands is **not retur
 
 <img width="951" height="740" alt="2 submit-feedback" src="https://github.com/user-attachments/assets/52dfb32c-eaec-400f-9315-2bc3e85de7e6" />
 
+---
+
 Captured request:
+
+---
 
 ```id="a1d9f3"
 csrf=ntmrvUChhVq0iFvE56p7RchmoWpeuiT6&name=admin&email=admin123%40gmail.com&subject=food&message=Hungry%21%21%21
