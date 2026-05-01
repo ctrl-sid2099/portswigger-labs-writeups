@@ -21,7 +21,7 @@ The goal of this repo is not just to document solutions, but to clearly explain 
 * SQL Injection (SQLi) [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/SQL%20injection)
 * Command Injection [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Command%20injection)
 * Path Traversal [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Path%20traversal)
-* (More coming as I progress)
+* (More writeups coming – labs completed, uploading in progress)
 
 ---
 
