@@ -38,7 +38,11 @@ Exploit the vulnerability to retrieve the contents of the `/etc/passwd` file.
 
 <img width="779" height="753" alt="2 repeater" src="https://github.com/user-attachments/assets/863bfd20-59a5-4e7a-a4b4-3254780e9597" />
 
+---
+
    * Result: ❌ *No such file* (blocked)
+
+---
 
 <img width="785" height="623" alt="3 normal-error" src="https://github.com/user-attachments/assets/67fd0029-ed2b-4d80-aca3-d9912d08e462" />
 
@@ -47,10 +51,10 @@ Exploit the vulnerability to retrieve the contents of the `/etc/passwd` file.
    ```
    GET /image?filename=/etc/passwd
    ```
+   
+6. Send the request.
 
 <img width="776" height="753" alt="4 absolute-path" src="https://github.com/user-attachments/assets/16b577ce-3035-46aa-81fb-a7b89f5e2ee9" />
-
-6. Send the request.
 
 ---
 
