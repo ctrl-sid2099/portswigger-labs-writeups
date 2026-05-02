@@ -165,7 +165,8 @@ Exploit a blind OS command injection vulnerability to execute the `whoami` comma
 
 <img width="822" height="698" alt="9 user-name" src="https://github.com/user-attachments/assets/8a2d0a4d-a627-42bd-9b4b-8c33d7222126" />
 
-👉 This is the result of the `whoami` command.
+
+* 👉 This is the result of the `whoami` command.
 
 ---
 
