@@ -52,7 +52,7 @@ Access the admin panel and delete the user **carlos** by exploiting a role-based
 * Capture the request:
 
   ```
-  GET /admin HTTP/1.1
+  GET /admin HTTP/2
   ```
 
 * Observe the **Cookie header**, which contains:
@@ -114,7 +114,7 @@ Access the admin panel and delete the user **carlos** by exploiting a role-based
 * Intercept the request in Burp:
 
   ```
-  GET /admin/delete?username=carlos HTTP/1.1
+  GET /admin/delete?username=carlos HTTP/2
   ```
 
 * Again, observe:
