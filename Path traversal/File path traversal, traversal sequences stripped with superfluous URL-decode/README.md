@@ -47,7 +47,6 @@ Exploit a path traversal vulnerability to retrieve the contents of:
 ../../../etc/passwd
 ```
 
-<img width="1170" height="718" alt="3 no-such-file" src="https://github.com/user-attachments/assets/82193ae0-e27a-430f-865d-164929363de0" />
 
 #### Attempt 2:
 
@@ -55,7 +54,7 @@ Exploit a path traversal vulnerability to retrieve the contents of:
 /etc/passwd
 ```
 
-<img width="1178" height="716" alt="4 no-such-file" src="https://github.com/user-attachments/assets/4458f54d-e26d-45ee-9e66-a987f33cae79" />
+
 
 #### Attempt 3:
 
@@ -63,7 +62,6 @@ Exploit a path traversal vulnerability to retrieve the contents of:
 ....//....//....//etc/passwd
 ```
 
-<img width="1176" height="723" alt="5 recursive-bypass" src="https://github.com/user-attachments/assets/a7e10ceb-1933-4361-814c-612d8c61dcb1" />
 
 * Result for all:
 
