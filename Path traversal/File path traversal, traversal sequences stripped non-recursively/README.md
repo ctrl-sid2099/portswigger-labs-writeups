@@ -55,10 +55,11 @@ Exploit a path traversal vulnerability to retrieve the contents of:
   No such file
   ```
 
-<img width="779" height="629" alt="4 no-such-file" src="https://github.com/user-attachments/assets/68956c5d-3edf-48f5-99e9-02101326182c" />
-
 👉 **Why it fails?**
 The application removes `../` sequences.
+
+<img width="779" height="629" alt="4 no-such-file" src="https://github.com/user-attachments/assets/68956c5d-3edf-48f5-99e9-02101326182c" />
+
 
 ---
 
@@ -79,10 +80,10 @@ The application removes `../` sequences.
   No such file
   ```
 
-<img width="782" height="622" alt="6 no-such-file" src="https://github.com/user-attachments/assets/1d2ea306-8def-4ca7-92c2-1b3135e364a4" />
-
 👉 **Why it fails?**
 Absolute paths are also blocked or sanitized.
+
+<img width="782" height="622" alt="6 no-such-file" src="https://github.com/user-attachments/assets/1d2ea306-8def-4ca7-92c2-1b3135e364a4" />
 
 ---
 
