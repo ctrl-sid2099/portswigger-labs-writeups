@@ -140,9 +140,9 @@ Because the role is **not controlled via cookies or URL parameters** in this lab
   }
   ```
 
-<img width="587" height="722" alt="6 role-id=2" src="https://github.com/user-attachments/assets/3d01db3c-75e5-48b7-bc40-dcc6a0b815c9" />
-
 * Send the request.
+
+<img width="587" height="722" alt="6 role-id=2" src="https://github.com/user-attachments/assets/3d01db3c-75e5-48b7-bc40-dcc6a0b815c9" />
 
 ---
 
@@ -172,7 +172,7 @@ Because the role is **not controlled via cookies or URL parameters** in this lab
 * You will now see access to:
 
   ```
-  /admin
+  Admin panel
   ```
 
 <img width="1248" height="513" alt="8 admin-panel" src="https://github.com/user-attachments/assets/ea109efa-4266-47f9-9a05-5e5c760c5230" />
