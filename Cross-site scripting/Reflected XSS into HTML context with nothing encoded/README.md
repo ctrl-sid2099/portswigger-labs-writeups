@@ -72,10 +72,12 @@ Enter the following payload:
 - A popup appears showing:
 
       XSS
+  
+- The lab is successfully solved
 
 <img width="1031" height="345" alt="4 reflected" src="https://github.com/user-attachments/assets/30086425-02f2-4c68-9bc5-1004f384f661" />
 
-- The lab is successfully solved
+---
 
 <img width="1014" height="412" alt="5 sucess" src="https://github.com/user-attachments/assets/e5a7f268-1581-4c09-97e1-c0ee774378aa" />
 
