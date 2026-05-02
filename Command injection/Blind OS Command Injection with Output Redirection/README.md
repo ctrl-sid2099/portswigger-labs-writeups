@@ -106,7 +106,7 @@ Exploit a blind OS command injection vulnerability to execute the `whoami` comma
 * Response:
 
   ```
-  HTTP/1.1 200 OK
+  HTTP/2 200 OK
   ```
 
 <img width="716" height="753" alt="6 200-ok-response" src="https://github.com/user-attachments/assets/7251e678-1a71-4129-a8db-0964a04256a2" />
@@ -133,15 +133,15 @@ Exploit a blind OS command injection vulnerability to execute the `whoami` comma
 
 <img width="777" height="717" alt="7 jpg-request" src="https://github.com/user-attachments/assets/3c249210-ad79-4668-ab3c-4aa4b62a9faf" />
 
----
-
-### 🔁 7. Retrieve Command Output
-
 * Send request to Repeater and modify:
 
   ```
   GET /image?filename=output.txt
   ```
+  
+---
+
+### 🔁 7. Retrieve Command Output
 
 * Send the request.
 
@@ -154,7 +154,7 @@ Exploit a blind OS command injection vulnerability to execute the `whoami` comma
 * Response:
 
   ```
-  HTTP/1.1 200 OK
+  HTTP/2 200 OK
   ```
 
 * Output:
