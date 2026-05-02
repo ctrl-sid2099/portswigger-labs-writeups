@@ -21,7 +21,8 @@ The goal of this repo is not just to document solutions, but to clearly explain 
 
 * Access Control Vulnerabilities [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Access%20control)
 * SQL Injection (SQLi) [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/SQL%20injection)
-* Command Injection [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Command%20injection)
+* Cross-site scripting (XSS) [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Cross-site%20scripting)
+* OS Command Injection [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Command%20injection)
 * Path Traversal [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Path%20traversal)
 * (More writeups coming – labs completed, uploading in progress)
 
