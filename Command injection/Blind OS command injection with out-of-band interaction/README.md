@@ -21,7 +21,7 @@ Exploit the vulnerability to trigger a **DNS lookup** to an external domain (e.g
 
 ## 🛠️ Tools Required
 
-* Burp Suite Professional (for Collaborator features)
+* Burp Suite Professional ( For Collaborator features )
 
 <img width="860" height="298" alt="image" src="https://github.com/user-attachments/assets/c5d7e7df-f555-4577-858e-d3b2baba637c" />
 
