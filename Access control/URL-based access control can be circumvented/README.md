@@ -85,7 +85,7 @@ This confirms that:
 Next, we crafted the key payload:
 
 ```http
-GET / HTTP/1.1
+GET / HTTP/2
 X-Original-URL: /admin
 ```
 
