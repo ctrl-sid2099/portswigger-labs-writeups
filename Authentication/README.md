@@ -20,7 +20,7 @@ Authentication mechanisms rely on a range of technologies to verify one or more 
 
 ---
 
-## ❓ What is the difference between authentication and authorization?
+## 📊 What is the difference between authentication and authorization?
 Authentication is the process of verifying that a user is who they claim to be. Authorization involves verifying whether a user is allowed to do something.
 
 For example, authentication determines whether someone attempting to access a website with the username Carlos123 really is the same person who created the account.
@@ -29,7 +29,7 @@ Once Carlos123 is authenticated, their permissions determine what they are autho
 
 ---
 
-## ❓ How do authentication vulnerabilities arise?
+## ⚠️ How do authentication vulnerabilities arise?
 Most vulnerabilities in authentication mechanisms occur in one of two ways:
 
   - The authentication mechanisms are weak because they fail to adequately protect against brute-force attacks.
@@ -39,7 +39,7 @@ In many areas of web development, logic flaws cause the website to behave unexpe
 
 ---
 
-## ❓ What is the impact of vulnerable authentication?
+## ❗ What is the impact of vulnerable authentication?
 The impact of authentication vulnerabilities can be severe. If an attacker bypasses authentication or brute-forces their way into another user's account, they have access to all the data and functionality that the compromised account has. If they are able to compromise a high-privileged account, such as a system administrator, they could take full control over the entire application and potentially gain access to internal infrastructure.
 
 Even compromising a low-privileged account might still grant an attacker access to data that they otherwise shouldn't have, such as commercially sensitive business information. Even if the account does not have access to any sensitive data, it might still allow the attacker to access additional pages, which provide a further attack surface. Often, high-severity attacks are not possible from publicly accessible pages, but they may be possible from an internal page.
