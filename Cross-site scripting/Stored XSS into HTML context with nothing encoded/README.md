@@ -1,4 +1,4 @@
-<img width="1026" height="349" alt="5 popUp" src="https://github.com/user-attachments/assets/d8db4b29-fb9b-44af-9b3e-63421a7f059c" /># 🧪 Lab Write-Up: Stored XSS into HTML Context with Nothing Encoded
+# 🧪 Lab Write-Up: Stored XSS into HTML Context with Nothing Encoded
 
 ## 📌 Lab Overview
 
