@@ -55,7 +55,6 @@ We then submitted a malicious script:
 ### 📊 Result:
 
 * The lab was marked as **solved**.
-* When revisiting the blog post, a **popup alert** appeared.
 
 <img width="989" height="330" alt="4 solved" src="https://github.com/user-attachments/assets/002576f3-3c7c-4ecd-b4d7-129fa3b8830b" />
 
