@@ -24,6 +24,7 @@ The goal of this repo is not just to document solutions, but to clearly explain 
 * Cross-site scripting (XSS) [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Cross-site%20scripting)
 * OS Command Injection [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Command%20injection)
 * Path Traversal [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Path%20traversal)
+* Authentication [Link](https://github.com/ctrl-sid2099/portswigger-labs-writeups/tree/main/Authentication)
 * (More writeups coming – labs completed, uploading in progress)
 
 ---
