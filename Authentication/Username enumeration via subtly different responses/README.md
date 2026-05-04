@@ -111,11 +111,11 @@ This lab is vulnerable to:
 
 <img width="784" height="437" alt="8 creds" src="https://github.com/user-attachments/assets/05d5ac67-7956-4b84-a5c7-7a492cbede7a" />
 
-✅ Login successful  
+#### ✅ Login successful  
 
 ---
 
-##🎉 Lab solved!
+## 🎉 Lab solved!
 
 <img width="772" height="466" alt="9 success" src="https://github.com/user-attachments/assets/926a2998-622e-45be-9992-7cf5cec1ae5a" />
 
