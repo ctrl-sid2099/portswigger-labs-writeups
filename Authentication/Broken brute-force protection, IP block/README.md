@@ -38,7 +38,7 @@ We must ensure every third request is a valid login to keep the attack running.
 
 To automate this pattern, I built a custom Python tool:
 
-📄 Checkout the [tool](https://github.com/ctrl-sid2099/auth-bypass-bruteforce-logic-flaw/tree/main/wordlist-injector).
+📄 Checkout the [tool](https://github.com/ctrl-sid2099/auth-bypass-bruteforce-logic-flaw/blob/main/wordlist-injector.py).
 
 ### 🔧 What it does:
   
